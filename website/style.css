@@ -1,0 +1,17 @@
+ h1 nav a {
+    padding: 20px;
+    text-decoration: none;
+    float: right;
+}
+h1 nav a:hover
+{
+    text-decoration: underline rgb(55, 139, 217);
+}
+body{
+    background-color: rgb(13, 12, 12);
+    color:azure;
+}
+#acheivements{
+    font-size: x-large;
+
+}
